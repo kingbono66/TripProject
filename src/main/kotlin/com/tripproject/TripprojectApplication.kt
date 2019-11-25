@@ -1,4 +1,4 @@
-package com.tripjava.tripproject
+package com.tripproject
 
 import org.springframework.boot.CommandLineRunner
 import org.springframework.boot.autoconfigure.SpringBootApplication

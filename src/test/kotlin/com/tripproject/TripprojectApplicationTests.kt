@@ -1,4 +1,4 @@
-package com.tripjava.tripproject
+package com.tripproject
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
